@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.claude/
+.claude.json
+.claude-cleanup-backups/
+backups/
+quarantine/
+执行记录/

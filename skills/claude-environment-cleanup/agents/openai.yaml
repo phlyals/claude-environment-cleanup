@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude 环境清理"
+  short_description: "清理 macOS Claude Code 登录环境，备份并保留历史与其他配置"
+  default_prompt: "使用 $claude-environment-cleanup 清理本机 Claude Code 环境，保留历史会话、MCP 和现有网络配置。"
